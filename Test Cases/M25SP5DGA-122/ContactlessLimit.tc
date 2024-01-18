@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ContactlessLimit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0b7a59a4-8d71-45d8-b497-60116a467477</testCaseGuid>
+   <variable>
+      <defaultValue>false</defaultValue>
+      <description></description>
+      <id>82d3f387-4667-44ab-8667-faeaf937c054</id>
+      <masked>false</masked>
+      <name>Disabled</name>
+   </variable>
+   <variable>
+      <defaultValue>true</defaultValue>
+      <description></description>
+      <id>8b2e03bf-1596-453d-89ec-cc1fcb9cabf7</id>
+      <masked>false</masked>
+      <name>Enabled</name>
+   </variable>
+</TestCaseEntity>
